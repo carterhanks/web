@@ -1,0 +1,9 @@
+How does the internet work?:
+    The internet is basically a network of servers and clients that communicate to each other via hardware and software. Its purpose is to connect people to the World Wide Web.
+
+What happens when you click on a link?:
+    Essentially, when you click on a link, your computer/internet browser break down the URL into separate sections. Upon doing so, it:
+        -Searches the DNS to locate the IP address of the domain name
+        -Sends an http request to that server asking to copy the contents of that website and send it back to the client
+        -The server sends that information in packets back to the client upon approval
+        -Reassembles those packets/chunks into data that can then be displayed on the client's screen
